@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"New note","text":"Testing","id":"84904bd7-4373-4e83-8e4b-31d372987bf0"},{"title":"test","text":"testing","id":"373b009e-edc2-47a7-8ee2-ebf318fa9021"},{"title":"test","text":"testing","id":"8b7765bd-efdb-4426-ac43-caafcbc53f26"},{"title":"test","text":"testing","id":"b793438a-6bc2-4dc3-9010-c71739b62d88"},{"title":"test","text":"testing","id":"777692c1-bdb5-42d9-9ac5-e9f3731d67e4"},{"title":"test","text":"testing","id":"cf719d89-f3ff-4959-9461-17c515555186"},{"title":"test","text":"testing","id":"d7c36569-9f05-44ca-b3aa-8bf8d66ebb88"},{"title":"test","text":"testing","id":"f7de18c2-fe1b-4cfb-99d9-11932fee1a0f"}]
