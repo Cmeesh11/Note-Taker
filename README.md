@@ -17,4 +17,8 @@ Using ```npm i``` will download all of these modules.
 
 To create a note, enter the title and the description of your note where the words "Note Title" and "Note Text" are located. Then, click the save icon. This should create a list on the left column of the page. Clicking the "+" icon will clear the text field and allow you to enter a new one. Clicking the trash can icons next to one of the notes in the left column will delete that note. Clicking on the body of one of the previously entered notes will bring up that note and description in the right column.
 
+### Link to Deployed Application
+
+https://damp-sierra-68096.herokuapp.com/
+
  ![alt text](assets/images/localhost_3001_notes.png)
